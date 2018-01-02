@@ -1,0 +1,19 @@
+E:\vs project\Scanner\Scanner\bin\Debug\Scanner.exe.config
+E:\vs project\Scanner\Scanner\bin\Debug\Scanner.exe
+E:\vs project\Scanner\Scanner\bin\Debug\Scanner.pdb
+E:\vs project\Scanner\Scanner\obj\Debug\Scanner.csprojResolveAssemblyReference.cache
+E:\vs project\Scanner\Scanner\obj\Debug\Scanner.Form1.resources
+E:\vs project\Scanner\Scanner\obj\Debug\Scanner.Properties.Resources.resources
+E:\vs project\Scanner\Scanner\obj\Debug\Scanner.csproj.GenerateResource.Cache
+E:\vs project\Scanner\Scanner\obj\Debug\Scanner.exe
+E:\vs project\Scanner\Scanner\obj\Debug\Scanner.pdb
+D:\C#Project\Scanner\Scanner\bin\Debug\Scanner.exe.config
+D:\C#Project\Scanner\Scanner\bin\Debug\Scanner.exe
+D:\C#Project\Scanner\Scanner\bin\Debug\Scanner.pdb
+D:\C#Project\Scanner\Scanner\obj\Debug\Scanner.csprojResolveAssemblyReference.cache
+D:\C#Project\Scanner\Scanner\obj\Debug\Scanner.Form1.resources
+D:\C#Project\Scanner\Scanner\obj\Debug\Scanner.Properties.Resources.resources
+D:\C#Project\Scanner\Scanner\obj\Debug\Scanner.csproj.GenerateResource.Cache
+D:\C#Project\Scanner\Scanner\obj\Debug\Scanner.csproj.CoreCompileInputs.cache
+D:\C#Project\Scanner\Scanner\obj\Debug\Scanner.exe
+D:\C#Project\Scanner\Scanner\obj\Debug\Scanner.pdb
